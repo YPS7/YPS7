@@ -60,7 +60,7 @@
   <img width=390 src= https://github-readme-stats.vercel.app/api?username=YPS7&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true/>
   <img width=390 src= https://github-readme-streak-stats.herokuapp.com/?user=YPS7&theme=midnight-purple&hide_border=true/>
   <br/>
-  <img width=325 align="center" src="![YPS7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YPS7&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YPS7&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <br/><br/>
