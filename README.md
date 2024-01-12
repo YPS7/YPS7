@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, JAVA, JavaScript or any Software Engineering questions**
 
-⚡ My Super power **I can convert yopur imagination to code**
+⚡ My Super power **I can convert your imagination to code**
 
  </div>
  
