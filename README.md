@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **A.I integration, Typescript, AWS**
 
-💬 Ask me about **Node.js, React, JAVA, JavaScript or any Software Engineering questions**
+💬 Ask me about **Node.js, React, A.I, JavaScript or any Software Engineering**
 
-⚡ My Super power **I can convert your imagination to code**
+⚡ My Super power **I can convert your Imagination into Product**
 
  </div>
  
